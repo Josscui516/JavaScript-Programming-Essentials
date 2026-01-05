@@ -14,3 +14,4 @@ for (let i = 0; i < dessertMenu.length; i++) {
   dessertMenuItem += `<p>Item ${i + 1}: ${dessertMenu[i]}</p>`;
 }
 document.getElementById('dessertMenuItems').innerHTML = dessertMenuItem;
+// Test
